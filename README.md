@@ -29,7 +29,7 @@ This project is not just a technical exploration but a strategic effort to stren
 - Integrated <b>Squert</b> into the analysis framework for log and alert visualization. Squert provided a comprehensive and organized display of security events, enhancing our ability to interpret and respond effectively to the nuanced landscape of potential cybersecurity threats.
 
 
-<h2>Pcap FIle Analysis</h2>
+<h2>Pcap File Analysis</h2>
 
 Obtained purposefully crafted pcap files designed for malware analysis from malware-traffic-analysis.net. Directed the analysis towards an incident associated with the Boleto malware, notorious for its engagement in the theft of bank details in Brazil. Utilized Wireshark for the analysis, revealing multiple Indicators of Compromise (IOCs) that shed light on the evolution of the attack.<br/>
 
